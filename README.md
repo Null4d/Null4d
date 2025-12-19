@@ -2,15 +2,31 @@
 
 <!--
 **Null4d/Null4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### 🏆 Achievements
+![Achievements](./metrics.plugin.achievements.svg)
+
+---
+
+### 🔭 Currently working on
+- Projects in GitHub
+- Learning new things in JS / Python (isteğine göre değiştir)
+
+### 🌱 Currently learning
+- Advanced Git & GitHub workflows
+- Web development / Backend (ne ilgini çekiyorsa)
+
+### 👯 Looking to collaborate on
+- Open-source projects
+- Hackathon or community projects
+
+### 🤔 Ask me about
+- Git, GitHub, coding, workflows, metrics setup
+
+### 📫 How to reach me
+- [Email](mailto:seninmailin@example.com)
+- [LinkedIn](https://www.linkedin.com/in/seninprofilin) (opsiyonel)
+
+### ⚡ Fun fact
+- I’m a metrics enthusiast and GitHub profile optimizer
