@@ -11,11 +11,11 @@
 
 ### 🔭 Currently working on
 - Projects in GitHub
-- Learning new things in JS / Python (isteğine göre değiştir)
+- Learning new things in JS / Python
 
 ### 🌱 Currently learning
 - Advanced Git & GitHub workflows
-- Web development / Backend (ne ilgini çekiyorsa)
+- Web development / Backend
 
 ### 👯 Looking to collaborate on
 - Open-source projects
@@ -24,9 +24,5 @@
 ### 🤔 Ask me about
 - Git, GitHub, coding, workflows, metrics setup
 
-### 📫 How to reach me
-- [Email](mailto:seninmailin@example.com)
-- [LinkedIn](https://www.linkedin.com/in/seninprofilin) (opsiyonel)
-
 ### ⚡ Fun fact
-- I’m a metrics enthusiast and GitHub profile optimizer
+- I really like watching anime and spend a lot of my free time enjoying different series.
