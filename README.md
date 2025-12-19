@@ -21,8 +21,5 @@
 - Open-source projects
 - Hackathon or community projects
 
-### 🤔 Ask me about
-- Git, GitHub, coding, workflows, metrics setup
-
 ### ⚡ Fun fact
 - I really like watching anime and spend a lot of my free time enjoying different series.
