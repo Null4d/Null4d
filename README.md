@@ -4,9 +4,6 @@
 **Null4d/Null4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🏆 Achievements
-![Achievements](./metrics.plugin.achievements.svg)
-
 ---
 
 ### 🔭 Currently working on
